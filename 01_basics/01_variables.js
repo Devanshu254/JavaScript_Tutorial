@@ -1,4 +1,4 @@
-// This is the first page from where we are starting our JavaScript journey
+// This is the first page from where we are starting our JavaScript journey which we are going to start.
 const accountId = 144553
 let accountEmail = "hitesh@google.com"
 var accountPassword = "12345"
