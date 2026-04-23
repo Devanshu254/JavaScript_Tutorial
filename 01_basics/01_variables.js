@@ -1,4 +1,5 @@
 // This is the first page from where we are starting our JavaScript journey which we are going to start.
+// Chapter 1: Basics of JavaScript
 const accountId = 144553
 let accountEmail = "hitesh@google.com"
 var accountPassword = "12345"
